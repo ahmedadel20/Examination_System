@@ -1,0 +1,16 @@
+VIEWSTUDENT : select all coloumns from Student 
+----------------------------
+ViewDepartment : select all coloumns from Department
+---------------------------
+ViewCourse : select all coloumns from Course
+-------------------------
+ViewInstructors : select all coloumns from Instructors
+---------------------------
+ViewStudentCourse : show StudentID and his Name and CourseID and Course Name
+---- Join Between Course an d Student
+------------------------------------
+ViewInstructorStudent : show StudentID and his Name and InstructorName and Score
+---------------------------------------
+
+
+

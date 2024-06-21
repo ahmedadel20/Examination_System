@@ -1,0 +1,15 @@
+User : training_Manager_user
+Login : training_manager_user
+Password : 123
+--------------------------------------------
+User : admin_user
+Login : admin_user
+Password : 123
+--------------------------------------------
+User : instructor_user
+Login : instructor_user
+Password : 123
+---------------------------------------------
+User : student_user
+Login : student_user
+Password : 123

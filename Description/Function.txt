@@ -1,0 +1,14 @@
+GetStudent(ID) : Get Student from His ID
+GetInstructor(ID) : Get Instructor from His ID
+GetCourse (ID) : Get Course from His ID
+GetDePartment (ID) : Get Department from His ID
+Getinstructorandstudents (Instractor_ID) : get data from Student and Instructor
+GetStudentandCourses (Student_ID) : Get data from Student and Courses
+GetCourseByName (Name) : Get Course from his Name
+GetStudentByName (Name) : Get Student from his Name
+GetDepartmentByName (Name) : Get Department from his Name
+GetInstructorByName (Name) : Get Instructor from his Name
+
+
+
+

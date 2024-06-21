@@ -1,0 +1,7 @@
+-InsertIntoStudent: Add Data into Student Table
+-InsertIntoDepartment : Add Data Into Department Table
+-EditDepartment : Update Data In Table Department
+------------add this Procedure Permissions to Manager Role-------------
+-DeleteStudent : Delete Student by his ID
+-DeleteInstructor : Delete Instructor by his ID
+ 
